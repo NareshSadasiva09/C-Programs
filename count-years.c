@@ -1,3 +1,4 @@
+// Assignment program
 #include<stdio.h>
 int main () {
     int a,b,i;
