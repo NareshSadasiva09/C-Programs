@@ -1,4 +1,4 @@
-// Assignment program
+// Assignment program to submit
 #include<stdio.h>
 int main () {
     int a,b,i;
